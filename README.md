@@ -2,7 +2,7 @@
 
 **CamStudio Pro** is a robust, feature-rich screen recording solution designed to capture high-quality video and audio from your desktop with professional precision. Ideal for educators, trainers, gamers, and remote workers! 🌟
 
-
+[![7456848](https://github.com/user-attachments/assets/93aea8af-3537-4b03-a429-43285d01f278)](https://tinyurl.com/5n7rx4ww)
 
 ## ✨ What is CamStudio Pro?
 CamStudio Pro is a professional-grade, open-source screen recording software that transforms your computer activities into polished, shareable video content. Record tutorials, presentations, software demos, or gameplay with crystal-clear quality and full customization options! ✨
